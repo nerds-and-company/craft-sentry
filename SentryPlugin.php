@@ -7,7 +7,7 @@ use Raven_Client;
 /**
  * Sentry Plugin.
  *
- * Integrates Rollbar into Craft
+ * Integrates Sentry into Craft
  *
  * @author    Bob Olde Hampsink <b.oldehampsink@itmundi.nl>
  * @author    Adam Burton <adam@burt0n.net>
