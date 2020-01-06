@@ -18,15 +18,17 @@ Setup
 Two ways to configure the plugin:
 
 * Enter Sentry DSN or public DSN (for JS reporting) via Plugin settings \
-**or** 
+**or**
 * Via your server's environment (loaded `$_ENV['sentryDsn']` and `$_ENV['sentryPublicDsn']`)
- 
+
 Important:
 =================
 The plugin's folder should be named "sentry"
 
 Changelog
 =================
+### 1.1.2
+- Fixes composer package name
 ### 1.1.1
 - Added ability to load DSN/publicDSN from .env
 ### 1.1
